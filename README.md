@@ -8,6 +8,8 @@ A simple tool for creating a readme.md file for your project, and also contains 
 
 [This Readme file was created with it.]
 
+[You can use it here](https://dev-tools-tau-black.vercel.app/)
+
 ## Features
 
 - Easy to use fields for creating your README.md file
